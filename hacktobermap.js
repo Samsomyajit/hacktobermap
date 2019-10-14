@@ -1109,4 +1109,10 @@ var hacktobermap = [
     latitude: 11.0168,
     longitude: 76.9558
   }
+  {
+    name: "Somyajit Chakraborty",
+    location: "Kolkata,West Bengal, India",
+    latitude: 22.5726,
+    longitude: 88.3639 
+  }
 ];
